@@ -49,3 +49,7 @@ Taurorum tyranni consternantur consedit, fulva tandem adstringit flumen, et
 ovantem procos, quanto. Idque duxerat; taurum dabit potiere surgere sedit,
 stimuloque aere. Referuntur artem, [culpa](http://diemque-circumdata.org/). Est
 ligno ego arbore vertice et costas solebat totiens me facta minor solebat.
+
+## Exposing API Keys here for the fun of it
+
+cn9OHjyJazy99Dgt8/r+PbF8bSrISeJyONrh13q1C/THV9GfdRhSrxMUtF6cdJmGVrLcUgS2pRRxqXbZkiWGtQ==
